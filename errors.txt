@@ -1,0 +1,6 @@
+-->name error-when we didnt define name previously name error will occur
+-->syntax error-when the syntax is not corect
+-->value error-when u are trying to caste some value into another line/  
+           occurs when a function or operation gets a value of the right data type but an inappropriate or invalid value.
+-->Index error =  when you try to access an element in a list, tuple, string, or other sequence using an index that doesn’t exist.
+-->

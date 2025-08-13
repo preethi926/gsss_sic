@@ -1,0 +1,6 @@
+-->Learn output formatting in string =%s and %data
+-->why in python we do not have increment and decrement operator
+-->learn about __main__
+-->what is pp3 and pythonic
+to learn all this use web=dox.python.org
+A
