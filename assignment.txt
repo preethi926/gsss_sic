@@ -1,6 +1,60 @@
+
+DAY1:
+Conditional Programming:
+Tax Calculation problem.
+Farmer problem.
+* Student result problem
+* Check if a number is Perfect Square
+Check if a year is Leap year
+
+DAY2:
+Problems on Loops:
+* implement range function
+Accept the number of lines of the Shape and draw the following shapes:
+	1. X shape
+	2. Hollow square
+	3. X inside hollow square
+	4. Pascal Triangle
+	5. Rhombus
+Accept a number and implement following programs:
+	1. Find sum of Even placed digits
+	2. Find sum of Odd placed Even digits in the number
+	3. Find 2nd smallest digit in the number.
+	4. Find 2nd biggest digit and also check if 2nd biggest digit is not possible to be found.
+	5. Find sum of composite digits of the number.
+
+
+   ------->> farmer problem
+
+    Farmer Problem Statement
+Mahesh is a farmer and owns 80 acres of land. His land is equally divided into 5 segments. He grows
+tomatoes in the 1st segment, potatoes in the 2nd segment, cabbage in the 3rd segment, sunflower in
+the 4th segment and sugarcane in the 5th segment.
+He is converting his land from chemical-driven farming to chemical-free farming. Mahesh starts with
+the conversion of vegetables into chemical-free produce. He spends the first 6 months doing the same.
+He then converts the sunflower land bank into chemical-free farming. This takes him another 4
+months. Finally, he converts sugarcane into chemical-free farming over the next 4 months.
+Mahesh is a farmer and owns 80 acres of land. His land is equally divided into 5 segments.
+He grows tomatoes in the 1st segment, potatoes in the 2nd segment, cabbage in the 3rd segment, sunflower in the 4th segment and sugarcane in the 5th segment.
+He is converting his land from chemical-driven farming to chemical-free farming. Mahesh starts with the conversion of vegetables into chemical-free produce. He spends the first 6 months doing the same.
+He then converts the sunflower land bank into chemical-free farming. This takes him another 4 months. Finally, he converts sugarcane into chemical-free farming over the next 4 months.
+He gets a yield of the following for tomatoes. 30% of his tomato land gives him 10 tonne yield per acre.
+The remaining 70% of his tomato land gives him 12 tonnes yield per acre. The selling price of tomato
+is Rs. 7 per Kg.
+@@ -137,4 +134,4 @@ All the crops are sowed at the same time. Mahesh gets the above yield at the abo
+in one crop cycle across his entire land of 80 acres.
+What is
+a. The overall sales achieved by Mahesh from the 80 acres of land.
+b. Sales realisation from chemical-free farming at the end of 11 months?
+
+
+
+Day 3:
+
 -->Learn output formatting in string =%s and %data
 -->why in python we do not have increment and decrement operator
 -->learn about __main__
 -->what is pp3 and pythonic
 to learn all this use web=dox.python.org
-A
+
+-->how to pass command line argument into my_range function

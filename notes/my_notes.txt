@@ -1,1 +1,13 @@
 this is my first repo in git
+
+
+MY_NOTES
+
+-->to run code which is saved in VS opem CMD and take the path of code and type=python filename.py and enter it will show output
+-->clone to git=refer SS
+-->ARGV=command line argument 
+-->ARGV[0] stores file name in python
+-->functions which are called independently are called functions
+-->map is used access all element one by one
+-->putc=standard output charcater(space)
+-->
