@@ -4,4 +4,4 @@
            occurs when a function or operation gets a value of the right data type but an inappropriate or invalid value.
 -->Index error =  when you try to access an element in a list, tuple, string, or other sequence using an index that doesn’t exist.
 -->type error=exception handling error
--->
+-->zero division error=which the numbers cant divided by 0

@@ -58,3 +58,6 @@ Day 3:
 to learn all this use web=dox.python.org
 
 -->how to pass command line argument into my_range function
+-->why in python there is no implicit type casting
+    ex='abc'+12   is type error, it do not add string and number
+--> In and out of how functions work on its operations

@@ -10,4 +10,15 @@ MY_NOTES
 -->functions which are called independently are called functions
 -->map is used access all element one by one
 -->putc=standard output charcater(space)
--->
+-->pymysql is act as bridge like transaltor
+-->class is solution for entity(object)
+-->all types of errors are children and Except is parent class
+
+
+
+-->keywords in Exception handling
+   1.try
+   2.Except
+   3.throw
+   4.catch
+   5.raise
