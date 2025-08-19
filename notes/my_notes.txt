@@ -22,3 +22,42 @@ MY_NOTES
    3.throw
    4.catch
    5.raise
+
+-->print=it is the function of core python which takes input from the user
+-->DR Subramanyaswami talk in YOU TUBE and sadguru in law collage
+-->for EOF in cmd use cntrl+c to stop the code runner
+-->tabs and spaces are different in VS code because in indentation spaces are different in different OS , they both are not termination character as well
+    ex= in node it use 2 space for indentation
+        in python it uses 4 spaces 
+-->whenevr u want to send many values u have to use tuples for binding
+-->Lists in python
+   list as DS
+   what is DS
+   Birth of DS like list
+   users
+   pros and cons
+   alternatives=for array it is linked list(elements in linked list are not stored in continueous....TC=O(n),,,,SC=n)
+   beyond list
+-->list is the collection of items/data
+   all the elements are stored in contagious memory location that is if any 2 consecutive elements then there is no gap in between them
+-->DATA STRUCTURE=  arrenge tha data in specific way where there is no ambiguity ,,,, with time efficiancy,space efficiency and similpicity
+-->dma
+   allocation and deallocation is u neither create nor delete in python
+-->users= 
+-->abstraction and encapsulation are 2 phases of same coin, if abstraction is there then encapsulation is also there
+   ABSTRACTION=bstraction is the concept of hiding complex implementation details and showing only the essential features of an object
+   ENCAPSULATION=Encapsulation is the practice of bundling data (variables) and the methods (functions) that operate on that data into a single unit
+-->Class is complete solution for an entity, what we have defined in class are entity, what we create is object
+-->in one class we have multiple choice of object
+-->POLYMORPHISM= 
+-->reference value is nothing but address
+-->list method= list() #creating+initializing
+                append() #adding element at rear(last) it returns none
+                pop() #delete last element and returns
+                insert() #inseting element eith specific index
+                remove() #do not return the element
+                sort()
+                reverse()
+                extend() #it iterable string
+-->sort is mutator(we can modify)
+-->
