@@ -1,0 +1,32 @@
+to use python debugger use this prompt in cmd= python -m pdb filename.py  
+    or you can add these 2 lines in program code header section   import pdb
+                                                                  pdb.set_trace()
+-->find and index functios act same but differ in action, in find if string not found in main string it will return -1 but in index function it will result value error
+-->state                 capital
+   karnataka             bengalore 
+   rajasthan               jaipur
+   bihar                  patna        
+
+
+   2606 = 6620
+          0266
+          6354 recursively apply logic until u get some changes
+
+  6354= 6543
+        3456
+        3087= difference
+
+ 3087= 8730
+       0378
+       8352=difference
+
+ 8352=8532
+      2358
+      6174=difference
+
+6174=7641
+     1467
+     6174=difference
+
+
+Self=  address of the object which is calling the function inside which we are writing

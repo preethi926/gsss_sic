@@ -61,3 +61,21 @@ to learn all this use web=dox.python.org
 -->why in python there is no implicit type casting
     ex='abc'+12   is type error, it do not add string and number
 --> In and out of how functions work on its operations
+-->why there is no index error in case of slicing
+-->implement a function find which mimics find method of string class
+   def find(string,sub,start=0,end=none)
+       if end is none:
+	       end=len(string)
+       if start<0:
+	      start=0
+		if end>len(string)
+		   end=len(string)
+		for i in range(start,end-len(sub)+1):
+            if string[i:i+len(sub)]==sub:
+			    return -1
+	print(find ("hello world","world"))
+	print(find ("hello world","python"))
+	print(find ("hello world","o"))
+
+-->why string has empty string which return 0
+-->*args= it can take any number of arguments it might be multiple number, it act as tuple

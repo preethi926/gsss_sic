@@ -1,0 +1,10 @@
+list slicing:
+
+String= it is an object
+when there is no element in string with find method it results -1
+-->accepe a number from user and find the next possible smallest number which is bigger than given number having all the digits of given number
+   67598
+= let number 89452       96587       45892     76349
+             89542       98657       45982     79634
+
+--> 
