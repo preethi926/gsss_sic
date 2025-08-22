@@ -1,0 +1,8 @@
+-->sql is case insensitive
+--> steps to connect DB
+    establish
+    get cursor objectrun query
+    get connection
+    run connection
+    close connection
+-->
